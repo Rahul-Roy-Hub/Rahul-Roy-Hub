@@ -71,13 +71,13 @@ I work with a variety of languages and tools, including:
 Feel free to connect with me :
 
 - <a href="https://www.linkedin.com/in/rahul-roy-bb6316161/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 - <a href="https://github.com/Rahul-Roy-Hub">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/>
   </a>
 - <a href="https://twitter.com/RahulDevRio">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 
 <!---
