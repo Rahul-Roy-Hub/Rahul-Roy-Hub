@@ -28,6 +28,8 @@ Hi 👋, I'm Rahul, a Full Stack Developer and Web3 Enthusiast from India.
 - 🌱 I’m currently learning Web3....
 - 📫 Reach me at rroy1836@gmail.com.
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 I work with a variety of languages and tools, including:
@@ -47,11 +49,15 @@ I work with a variety of languages and tools, including:
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp; 
 </div>
 
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahul-roy-hub)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-roy-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/rahul-roy-hub/github-readme-stats)
+
+---
 
 ## Connect with Me
 
