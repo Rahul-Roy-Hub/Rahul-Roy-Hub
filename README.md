@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="profile-pic.jpg" alt="Rahul Roy" width="200px">
-  <br>
   Rahul Roy
 </h1>
 
@@ -8,7 +6,7 @@
   <strong>Full Stack Developer and Web3 Enthusiast</strong>
 </p>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/" alt="GitHub User Card">
+  <img src="https://camo.githubusercontent.com/cffd1cc7a5900564e460e6244b444a2859777f9dcc1fbd26cdbe5ca30ff78142/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e6f797263266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="GitHub User Card">
 </p>
 
 <p align="center">
@@ -40,7 +38,7 @@ I work with a variety of languages and tools, including:
 - Other: Git, Figma.
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/" alt="GitHub Stats">
+  <img src="https://camo.githubusercontent.com/9591ca528555d0f3c869021d4e5f0277934843dc0f522f098f9d2c0a80e6cc85/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6f79726326" alt="GitHub Stats">
 </p>
 
 ## Connect with Me
