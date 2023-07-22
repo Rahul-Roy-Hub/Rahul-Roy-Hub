@@ -49,7 +49,7 @@ I work with a variety of languages and tools, including:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahul-roy-hub)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-roy-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/rahul-roy-hub/github-readme-stats)
 
