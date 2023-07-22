@@ -10,11 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-roy-bb6316161/">LinkedIn</a>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/rahul-roy-bb6316161/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   ·
-  <a href="https://rahulroy.vercel.app/">Portfolio</a>
+  <a href="https://rahulroy.vercel.app/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   ·
-  <a href="mailto:rroy1836@gmail.com">Email</a>
+  <a href="mailto:rroy1836@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 
 ---
@@ -63,11 +70,15 @@ I work with a variety of languages and tools, including:
 
 Feel free to connect with me :
 
-- LinkedIn: [linkedin.com/in/rahulroy](https://www.linkedin.com/in/rahul-roy-bb6316161/)
-- GitHub: [@Rahul-Roy-Hub](https://github.com/Rahul-Roy-Hub)
-- Twitter: [@RahulDevRio](https://twitter.com/RahulDevRio)
-- Portfolio: [rahulroy.com](https://rahulroy.vercel.app/)
-
+- <a href="https://www.linkedin.com/in/rahul-roy-bb6316161/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn"/>
+  </a>
+- <a href="https://github.com/Rahul-Roy-Hub">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github"/>
+  </a>
+- <a href="https://twitter.com/RahulDevRio">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter"/>
+  </a>
 
 <!---
 Rahul-Roy-Hub/Rahul-Roy-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
