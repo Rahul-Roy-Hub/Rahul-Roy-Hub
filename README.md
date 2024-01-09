@@ -1,9 +1,6 @@
 <h1 align="center">
   Rahul Roy
 </h1>
-<div align="center">
-<iframe src="https://giphy.com/embed/DGsDLr9nyz2LkVgKFs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MobileLegends-jujutsu-kaisen-mlbb-jjk-DGsDLr9nyz2LkVgKFs">via GIPHY</a></p>
-</div>
 
 <p align="center">
   <strong>Full Stack Developer and Web3 Enthusiast</strong>
