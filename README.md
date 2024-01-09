@@ -1,6 +1,9 @@
 <h1 align="center">
   Rahul Roy
 </h1>
+<div align="center">
+(assets/GojoSatoru.gif)(https://github.com/Rahul-Roy-Hub)
+</div>
 
 <p align="center">
   <strong>Full Stack Developer and Web3 Enthusiast</strong>
