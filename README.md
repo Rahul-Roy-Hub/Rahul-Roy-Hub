@@ -1,6 +1,12 @@
 <h1 align="center">
-  Rahul Roy
+ <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="50"> <strong>Rahul Roy</strong>
+<h1 align="center">
+ <img src=https://github.com/Rahul-Roy-Hub/Rahul-Roy-Hub/assets/90465213/22050f7d-38da-4a05-948a-af40b582115d width="600")
 </h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
 
 <p align="center">
   <strong>Full Stack Developer and Web3 Enthusiast</strong>
@@ -24,6 +30,8 @@
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## About Me
 
@@ -90,6 +98,8 @@ Feel free to connect with me :
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!---
 Rahul-Roy-Hub/Rahul-Roy-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
