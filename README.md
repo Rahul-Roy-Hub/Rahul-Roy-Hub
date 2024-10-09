@@ -1,3 +1,4 @@
+<h1 align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="50"> <strong>Rahul Roy</strong>
 <h1 align="center">
  <img src=https://github.com/Rahul-Roy-Hub/Rahul-Roy-Hub/assets/90465213/22050f7d-38da-4a05-948a-af40b582115d width="600")
