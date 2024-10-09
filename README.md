@@ -105,7 +105,7 @@ Feel free to connect with me :
 
 <p>
  <p><a href="https://collectors.poap.xyz/token/7202978">
-    <img src="https://![Chainlink CCIP Bootcamp](https://github.com/user-attachments/assets/535547a0-77c5-4a03-b622-c6be77d050fb)"  alt="poap" height="200" width="200">
+    <img src=https://github.com/user-attachments/assets/535547a0-77c5-4a03-b622-c6be77d050fb alt="poap" height="200" width="200">
   </a></p>
 </p>
 
