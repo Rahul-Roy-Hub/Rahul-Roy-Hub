@@ -37,7 +37,7 @@
 
 Hi 👋, I'm Rahul, a Full Stack Developer and Web3 Enthusiast from India.
 
-- 🔭 I’m currently working on Polkadot Projects.
+- 🔭 I’m currently working on Web3 Projects.
 - 👀 I’m interested in new things.
 - 🌱 I’m currently learning Web3....
 - 📫 Reach me at rroy1836@gmail.com.
