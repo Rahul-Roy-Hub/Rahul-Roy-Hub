@@ -112,7 +112,7 @@ Feel free to connect with me :
    <img src="https://github.com/user-attachments/assets/cc594b45-25b6-4bc3-9e36-392572c40992" alt="poap" height="200" width="200">
   </a>
   <a href="https://poap.gallery/drops/196734">
-   <img src="https://github.com/user-attachments/assets/645ab717-d3de-4d91-b2be-6a5594b36694" alt=poap height="200" width="200":
+   <img src="https://github.com/user-attachments/assets/645ab717-d3de-4d91-b2be-6a5594b36694" alt=poap height="200" width="200">
     </a>
  </p>
 
