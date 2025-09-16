@@ -102,10 +102,10 @@ Feel free to connect with me :
 
 ## POAPs:
 
- <p><a href="https://collectors.poap.xyz/token/7202978">
+ <p><a href="https://poap.gallery/drops/176428">
     <img src=https://github.com/user-attachments/assets/535547a0-77c5-4a03-b622-c6be77d050fb alt="poap" height="200" width="200">
   </a>
- <a href="https://collectors.poap.xyz/token/7249933">
+ <a href="https://poap.gallery/drops/178315">
     <img src=https://github.com/user-attachments/assets/85c1904c-fd2a-402f-ad44-bc0040fabf16 alt="poap" height="200" width="200">
   </a>
   <a href="https://poap.gallery/drops/194040">
